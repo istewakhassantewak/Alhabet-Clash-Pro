@@ -4,7 +4,7 @@
 
 🔗 Preview Deployment: https://alhabet-clash-kgsgjj77i-istewakhassantewaks-projects.vercel.app
 
-🔗 Netlify Version: https://6a00482ec791540008517712--hilarious-lolly-03de71.netlify.app/
+🔗 Netlify Version: alphaclashprogame.netlify.app
 
 An interactive and fast-paced typing game where players test their keyboard speed and accuracy by pressing random alphabets before time runs out. Built with modern frontend technologies and responsive UI design.
 
