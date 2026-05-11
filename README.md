@@ -1,18 +1,18 @@
-🎮 Alphabet Clash Pro
+🎮 Alhabet Clash Pro
 
 🔗 Live Site: https://alhabet-clash-pro.vercel.app
 
 🔗 Preview Deployment: https://alhabet-clash-kgsgjj77i-istewakhassantewaks-projects.vercel.app
 
-🔗 Netlify Version: alphaclashprogame.netlify.app
+🔗 Netlify Version: https://alphaclashprogame.netlify.app
 
-An interactive and fast-paced typing game where players test their keyboard speed and accuracy by pressing random alphabets before time runs out. Built with modern frontend technologies and responsive UI design.
+An interactive and fast-paced typing game where players test their keyboard speed and accuracy by pressing random alphabets before time runs out. Built with modern frontend technologies and a fully responsive UI design.
 
 🚀 Features
 ⌨️ Real-time alphabet typing gameplay
 ⏱️ Countdown timer system
 🏆 Dynamic score tracking
-❤️ Life/health management system
+❤️ Life/Health management system
 🎯 Random alphabet generation
 📱 Fully responsive design
 🎨 Interactive UI with smooth gameplay experience
@@ -31,10 +31,8 @@ JavaScript (Vanilla JS)
 └── .gitattributes
 
 ⚙️ Setup & Usage
-
 Clone the repository:
 git clone https://github.com/istewakhassantewak/Alhabet-Clash-Pro.git
-
 Navigate to the project folder:
 cd Alhabet-Clash-Pro
 Open index.html in your browser.
@@ -54,9 +52,10 @@ Real-time event handling and game logic
 Responsive design for desktop and mobile devices
 Beginner-friendly game development project
 
-📬 Contact:
+📬 Contact
 📧 Email: istewakhassantewak121@gmail.com
 🔗 GitHub: https://github.com/istewakhassantewak
 
+📧 Email: istewakhassantewak121@gmail.com
 
 🔗 GitHub: https://github.com/istewakhassantewak
