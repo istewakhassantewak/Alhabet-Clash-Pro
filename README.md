@@ -1,6 +1,6 @@
 🎮 Alhabet Clash Pro
 
-🔗 Live Site: https://alhabet-clash-pro.vercel.app
+🔗 Live Site: https://alphabet-clash-pro-topaz.vercel.app/
 
 🔗 Preview Deployment: https://alhabet-clash-kgsgjj77i-istewakhassantewaks-projects.vercel.app
 
