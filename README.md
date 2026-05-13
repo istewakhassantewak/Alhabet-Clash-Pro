@@ -2,8 +2,6 @@
 
 🔗 Live Site: https://alphabet-clash-pro-topaz.vercel.app/
 
-🔗 Preview Deployment: https://alhabet-clash-kgsgjj77i-istewakhassantewaks-projects.vercel.app
-
 🔗 Netlify Version: https://alphaclashprogame.netlify.app
 
 An interactive and fast-paced typing game where players test their keyboard speed and accuracy by pressing random alphabets before time runs out. Built with modern frontend technologies and a fully responsive UI design.
